@@ -1,4 +1,4 @@
-# EEG Headset Main Board
+# EEG Headset Power Board
 
 This repository contains the PCB design of the EEG main board, adapted from the EMG bracelet's main board, for signal acquisition.
 Detailed description of the project can be found in the Documentation folder
